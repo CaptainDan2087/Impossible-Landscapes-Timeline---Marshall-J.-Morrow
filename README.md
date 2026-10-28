@@ -9,4 +9,5 @@ Viewer links only work while this repository is public.
 
 | Timeline | View | Last changed |
 | --- | --- | --- |
-| Impossible Landscapes | [Open](https://www.timelines.studio/viewer/gh/CaptainDan2087/Impossible-Landscapes-Timeline---Marshall-J.-Morrow/main/impossible-landscapes.timeline) |  |
+| Impossible Landscapes | [Open](https://www.timelines.studio/viewer/gh/CaptainDan2087/Impossible-Landscapes-Timeline---Marshall-J.-Morrow/main/impossible-landscapes.timeline) | 2026-10-05 |
+| Operation: Snowtrack | [Open](https://www.timelines.studio/viewer/gh/CaptainDan2087/Impossible-Landscapes-Timeline---Marshall-J.-Morrow/main/operation-snowtrack.timeline) |  |
